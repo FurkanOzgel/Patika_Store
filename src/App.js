@@ -1,7 +1,7 @@
 import React from "react";
 import {View, Text, StyleSheet, TextInput, FlatList} from "react-native";
 import product_data from "./product_data.json";
-import Product from "./components/product";
+import Product from "./components/product_card/product";
 
 function App(){
 
